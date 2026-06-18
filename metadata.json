@@ -1,0 +1,6 @@
+{
+  "name": "Amiin Offline Chat",
+  "description": "Amiin Offline Chat is a communication application that allows nearby users to exchange messages without internet access, developed by Amiin Cabdi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
